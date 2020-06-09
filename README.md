@@ -9,7 +9,7 @@ Bot Developer
 #### Bounce | 2019 (June) - 2020 (February) (https://wearebounce.net)
 System Administration, API Development & Bot Development.
 
-# Side projectz and stuffzz
+## Side projectz and stuffzz
 
 #### PreMiD | 2019 (October) - Present (https://premid.app)
 Presence developer, support agent. Contributed to discord bot, website, localization and extension.
