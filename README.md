@@ -6,6 +6,9 @@ Founder & Lead Developer - Discord bots and website.
 #### Livida | 2019 (December) - Present (https://livida.net)
 Bot Developer
 
+#### SecurioTech | 2020 (June) - Present (https://securio.tech)
+Bot Developer
+
 #### Bounce | 2019 (June) - 2020 (February) (https://wearebounce.net)
 System Administration, API Development & Bot Development.
 
